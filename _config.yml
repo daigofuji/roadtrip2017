@@ -1,0 +1,13 @@
+name : Foundation5/github pages/Jykill starter
+brand : Roadtrip 2017
+description : August 8 through 12. Four nights, four games. 
+keyword : 
+url : http://daigofuji.github.io/roadtrip2017/
+email : daigo@daigofujiwara.com
+twitter : DaigoFuji
+github : DaigoFuji
+author : Daigo Fujiwara
+year : 2017
+markdown : kramdown
+exclude :
+  - node_modules
